@@ -13,7 +13,7 @@ from constantine import (
 )
 
 APP_BSKY_FEED_POST_COLLECTION = "app.bsky.feed.post"
-MAX_DELETION_COUNT = 100
+MAX_DELETION_COUNT = 1000
 
 
 def parse_args():
